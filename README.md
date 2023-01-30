@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome, fellow coders! 😊👋
 
-<!--
-**rahulkushwaha482/rahulkushwaha482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hi I am Rahul Kushwaha](https://raw.githubusercontent.com/lighttt/lighttt/master/icons/banner2.png)][website]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a mobile application developer.
+
+
+![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lighttt&layout=compact&theme=algolia)
+
+### Connect with me:
+
+[<img align="left" alt="My Website" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />][website]
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+
+[website]: https://rahulkushwaha482.github.io/#/
+[linkedin]: https://www.linkedin.com/in/tuladharmanishlight/
