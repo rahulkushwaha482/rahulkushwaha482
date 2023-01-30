@@ -17,4 +17,4 @@ Hi I am Rahul Kushwaha]
 <br />
 
 [website]: https://rahulkushwaha482.github.io/#/
-[linkedin]: https://www.linkedin.com/in/tuladharmanishlight/
+[linkedin]: [https://www.linkedin.com/in/tuladharmanishlight/](https://in.linkedin.com/in/rahulkushwaha482)
