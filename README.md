@@ -1,6 +1,6 @@
 ### Welcome, fellow coders! 😊👋
 
-[![Hi I am Rahul Kushwaha](https://raw.githubusercontent.com/lighttt/lighttt/master/icons/banner2.png)][website]
+Hi I am Rahul Kushwaha]
 
 
 ### I'm a mobile application developer.
