@@ -7,7 +7,7 @@ I belive in Honesty.
 ### I'm a mobile application developer.
 
 
-![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lighttt&layout=compact&theme=algolia)
+![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkushwaha482&layout=compact&theme=algolia)
 
 ### Connect with me:
 
